@@ -1,6 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
-
+contact{
+	text-align: center;
+ 	align-content: center;
+     background-color: #C51316
+}
 #showbox{
 	
 	width: 1034px;
